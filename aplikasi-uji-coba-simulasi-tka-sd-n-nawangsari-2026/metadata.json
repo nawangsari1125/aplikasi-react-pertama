@@ -1,0 +1,8 @@
+{
+  "name": "Aplikasi Uji Coba Simulasi TKA SD N NAWANGSARI 2026",
+  "description": "Aplikasi canggih untuk membuat soal latihan matematika kelas 6 SD berbasis Tes Kemampuan Akademik (TKA) dengan integrasi AI untuk teks dan gambar.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
